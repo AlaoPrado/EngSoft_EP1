@@ -3,7 +3,7 @@
 Compilar:
 
 ```
-javac -cp libs/junit-4.13.jar;. Money.java Dollar.java Franc.java MoneyTest.java
+javac -cp libs/junit-4.13.jar;. Money.java MoneyTest.java
 ```
 
 Executar:
